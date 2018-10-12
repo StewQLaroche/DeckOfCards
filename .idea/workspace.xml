@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0367fd96-f7c0-4618-a3c1-245ea1d45f36" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Card.py" beforeDir="false" afterPath="$PROJECT_DIR$/Card.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deck.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deck.py" afterDir="false" />
-    </list>
+    <list default="true" id="0367fd96-f7c0-4618-a3c1-245ea1d45f36" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +12,7 @@
     <session id="-821975838">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -47,13 +45,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Deck.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="67" column="26" lean-forward="true" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+            <state relative-caret-position="51">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#14#35#0" expanded="true" />
-                <marker date="1539326939749" expanded="true" signature="78:79" ph="..." />
-                <marker date="1539326939749" expanded="true" signature="117:970" ph="..." />
-                <marker date="1539326939749" expanded="true" signature="1437:1442" ph="..." />
+                <marker date="1539327682662" expanded="true" signature="78:79" ph="..." />
+                <marker date="1539327682662" expanded="true" signature="117:970" ph="..." />
+                <marker date="1539327682662" expanded="true" signature="1437:1442" ph="..." />
               </folding>
             </state>
           </provider>
@@ -174,7 +172,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11011591" />
@@ -235,12 +232,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Deck_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Card_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Deck_test.py" />
+    <entry file="file://$PROJECT_DIR$/Card_test.py" />
     <entry file="file://$PROJECT_DIR$/Card.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -253,13 +246,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Deck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="67" column="26" lean-forward="true" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+        <state relative-caret-position="51">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#14#35#0" expanded="true" />
-            <marker date="1539326939749" expanded="true" signature="78:79" ph="..." />
-            <marker date="1539326939749" expanded="true" signature="117:970" ph="..." />
-            <marker date="1539326939749" expanded="true" signature="1437:1442" ph="..." />
+            <marker date="1539327682662" expanded="true" signature="78:79" ph="..." />
+            <marker date="1539327682662" expanded="true" signature="117:970" ph="..." />
+            <marker date="1539327682662" expanded="true" signature="1437:1442" ph="..." />
           </folding>
         </state>
       </provider>
